@@ -56,4 +56,25 @@ _ git commit --amend
         _ para salir del editor y que guarde cambios ingresamos en la base de la pantalla
                 ( :wq ) y enter
                 
-======================================================================================================="""
+=======================================================================================================
+
+=======================================================================================================
+
+_ DESDE GITHUB:
+        _ iniciamos secion
+        _ crear nuevo repositorio
+        _ introducir un nombre al nuevo repositorio
+        _ dar enter en el boton verde que se encuentra abajo
+        
+_ SE ABRE UNA PANTALLA CON TRES OPCIONES:
+        _ de las opciones del medio (subir un repositorio desde la linea de comandos)
+        _ elegir la primer opcion y copiar con mouse lo escrito alli
+        _ pegarlo en la consola de git + enter
+        
+        _ si es la primer vez en realizar esta accion, agregar en la consola de git:
+                _ $ git push origin master + enter
+                _ nos va a pedir iniciar con el browser y luego cerrar la pestania
+                  y volver a la aplicacion de git
+        
+        _ actualizamos la pestania de git y ya el repositorio debe estar a disposicion
+          con todos sus carpetas y archivos."""
