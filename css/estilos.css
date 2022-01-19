@@ -1,0 +1,14 @@
+body {
+    background-color: blueviolet;
+}
+#titulo {
+    color: white;
+    font-family: cursive;
+    text-align: center;
+    border: 1px solid white;
+}
+.parrafo {
+    color: yellow;
+    font-family: cursive;
+    text-align: center;
+}
