@@ -77,4 +77,16 @@ _ SE ABRE UNA PANTALLA CON TRES OPCIONES:
                   y volver a la aplicacion de git
         
         _ actualizamos la pestania de git y ya el repositorio debe estar a disposicion
-          con todos sus carpetas y archivos."""
+          con todos sus carpetas y archivos.
+          
+============================================================================================
+
+_ DESDE EL SHELL DE GIT:
+        _ para subir al repositorio de GITHUB utilizamos PUSH:
+                _ git push origin master + enter
+                
+_ DESDE GITHUB: 
+        _ cuando se realizan cambios en los archivos (GITHUB / REMOTO) se 
+          debe CLONAR o sea transladar esa nueva informacion al proyecto original 
+          en nuestro ordenador:
+                _ git pull + enter"""
