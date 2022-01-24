@@ -83,7 +83,7 @@ _ SE ABRE UNA PANTALLA CON TRES OPCIONES:
 
 _ DESDE EL SHELL DE GIT:
         _ para subir al repositorio de GITHUB utilizamos PUSH:
-                _ git push origin master + enter
+                _ git push <nombre del repositorio> <nombre de la rama>
                 
 _ DESDE GITHUB: 
         _ cuando se realizan cambios en los archivos (GITHUB / REMOTO) se 
