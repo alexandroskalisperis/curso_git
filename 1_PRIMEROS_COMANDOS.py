@@ -89,4 +89,12 @@ _ DESDE GITHUB:
         _ cuando se realizan cambios en los archivos (GITHUB / REMOTO) se 
           debe CLONAR o sea transladar esa nueva informacion al proyecto original 
           en nuestro ordenador:
-                _ git pull + enter"""
+                _ git pull + enter
+                
+=============================================================================================
+
+_ TAGS:
+        _ este elemento sirve para VERSIONES DEL PROYECTO.
+        _ DESDE CONSOLA DE GIT:
+                _ $ git tag (nombre de la version) -m "nombre identificatorio (version 1)" + enter 
+                _ $ git push --tags + enter"""
